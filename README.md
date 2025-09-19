@@ -83,5 +83,3 @@ const msg = `Hello, my name is ${name} and I am ${age} years old.`;
 ---
 
 # 🔰 Live Link
-
-## Github Live Link: https://mahbub-zaman.github.io/A6-Green_Earth/
