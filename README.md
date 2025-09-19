@@ -79,3 +79,5 @@ const msg = `Hello, my name is ${name} and I am ${age} years old.`;
 ```
 
 - Advantages: readable, clean syntax, multi-line support.
+
+Netlify link = https://heroic-pothos-b5c5cc.netlify.app/
